@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Keycloack.ApiService/Keycloack.ApiService.csproj" />
+  <Project Path="Keycloack.AppHost/Keycloack.AppHost.csproj" />
+  <Project Path="Keycloack.ServiceDefaults/Keycloack.ServiceDefaults.csproj" />
+  <Project Path="Keycloack.Web/Keycloack.Web.csproj" />
+</Solution>
